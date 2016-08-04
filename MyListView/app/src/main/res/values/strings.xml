@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="text_Spots">Spots</string>
+    <string name="text_Memorial">中正紀念堂</string>
+</resources>
